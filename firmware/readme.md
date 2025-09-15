@@ -1,3 +1,3 @@
-ファームウェア置き場です。
+Dolphin30のファームウェアを以下のリンクからダウンロードできます。
 
-[Dolphin30ファームウェア](../../../raw/refs/heads/main/firmware/dolphin30_vial-qwerty.uf2)
+[dolphin30_vial-qwerty.uf2](../../../raw/refs/heads/main/firmware/dolphin30_vial-qwerty.uf2)
