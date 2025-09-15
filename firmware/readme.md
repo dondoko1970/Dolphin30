@@ -10,4 +10,4 @@
 
 [link test](../../../../)
 
-[link test](../../../../raw/refs/heads/main/firmware/dolphin30_vial-qwerty.uf2)
+[link test](../../../raw/refs/heads/main/firmware/dolphin30_vial-qwerty.uf2)
