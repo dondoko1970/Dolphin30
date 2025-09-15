@@ -1,31 +1,43 @@
 # (作成途中)Dolphin30　ビルドガイド
-# 同梱品
-PCB基板
+## 同梱品
+- PCB基板
 
 <img src="images/pcb.jpg" width="80%" />
 
-スイッチプレート
+- スイッチプレート
 
 <img src="images/switchpl.jpg" width="80%" />
 
-ボトムプレート
+- ボトムプレート
 
 <img src="images/bottompl.jpg" width="80%" />
-RP2040-Core-A(以下マイコンと呼称)
+
+- RP2040-Core-A(以下マイコンと呼称)
 
 <img src="images/corea.jpg" width="80%" />
-USB Type-Cコネクタ DIP化基板(以下USB基板と呼称)
+
+- USB Type-Cコネクタ DIP化基板(以下USB基板と呼称)
 
 <img src="images/usb1.jpg" width="80%" />
-ピンヘッダ 1セット(写真のほかに、USB基板付属の4ピンのもの1セット)
+
+- ピンヘッダ 1セット(写真のほかに、USB基板付属の4ピンのもの1セット)
 
 <img src="images/pinheader.jpg" width="80%" />
 
-ゴム足　4個
+- ゴム足　4個
 
-<img src="images/leg.jpg" width="80%" />
+## 同梱品まとめ
+|パーツ名|個数|
+|:---|---:|
+|PCB基板|1|
+|スイッチプレート|1|
+|ボトムプレート|1|
+|RP2040-Core-A「マイコン」|1|
+|USB Type-Cコネクタ DIP化基板「USB基板」|1|
+|ピンヘッダ|1セット|
+|ゴム足|4|
 
-# その他必要なパーツ
+## その他必要なパーツ
 
 |パーツ名|備考|個数|
 |:---|:---|---:|
