@@ -12,4 +12,4 @@
 
 [link test](../../../raw/refs/heads/main/)
 
-[link test](../../../raw/refs/heads/main/firmware/dolphin30_vial-qwerty.uf2)
+[Dolphin30ファームウェア](../../../raw/refs/heads/main/firmware/dolphin30_vial-qwerty.uf2)
