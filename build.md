@@ -2,7 +2,23 @@
 # 同梱品
 |パーツ名|個数|
 |:---|---:|
-|PCB基板|1|
+
+PCB基板
+<img src="images/pcb.jpg" width="80%" />
+スイッチプレート
+![スイッチプレート](images/switchpl.jpg)
+ボトムプレート
+![ボトムプレート](images/bottompl.jpg)
+RP2040-Core-A(以下マイコンと呼称)
+![マイコン](images/corea.jpg)
+USB Type-Cコネクタ DIP化基板(以下USB基板と呼称)
+![USB基板](images/usb1.jpg)
+ピンヘッダ 1セット
+![ピンヘッダ](images/pinheader.jpg)
+写真のほかに、USB基板付属の4ピンのもの1セット
+
+ゴム足　4個
+
 |スイッチプレート|1|
 |ボトムプレート|1|
 |RP2040-Core-A(以下マイコンと呼称)|1|
